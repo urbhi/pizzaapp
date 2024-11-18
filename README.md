@@ -1,10 +1,10 @@
-# 🍕 Pizza Shopping App (Pizza Hut Clone)
+#  Pizza Shopping App (Pizza Hut Clone)
 
 Welcome to the **Pizza Shopping App**, a JavaScript-based application replicating the functionality of Pizza Hut's online ordering platform. This app allows customers to browse a variety of pizzas, customize their orders, and manage their shopping cart seamlessly.
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### 1. **Menu Browsing**
 - Explore a wide selection of pizzas, including classic, premium, and customizable options.
@@ -37,7 +37,4 @@ Welcome to the **Pizza Shopping App**, a JavaScript-based application replicatin
 
 ---
 
-## 📋 How to Run the App
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/pizza-shopping-app.git
+
