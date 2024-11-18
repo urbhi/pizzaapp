@@ -32,9 +32,6 @@ Welcome to the **Pizza Shopping App**, a JavaScript-based application replicatin
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: (Optional, if backend is implemented)
-- **Payment Gateway**: (e.g., Razorpay or Stripe for secure payments)
-
----
+  
 
 
